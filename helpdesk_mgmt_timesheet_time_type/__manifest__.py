@@ -4,8 +4,7 @@
 {
     "name": "Helpdesk Ticket Timesheet Time Type",
     "summary": "Add time type to the Timesheet of tickets in Helpdesk.",
-    "author": "XCG Consulting, "
-    "Odoo Community Association (OCA)",
+    "author": "XCG Consulting, Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/helpdesk",
     "license": "AGPL-3",
     "category": "Project",
